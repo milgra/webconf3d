@@ -33,6 +33,7 @@
 		331DFD0921C3D83600E58C53 /* nothing1.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 331DFD0821C3D83400E58C53 /* nothing1.mp4 */; };
 		331DFD0A21C3D83900E58C53 /* nothing2.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 331DFD0721C3D83300E58C53 /* nothing2.mp4 */; };
 		331DFD0B21C3D83B00E58C53 /* nothing3.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 331DFD0621C3D83300E58C53 /* nothing3.mp4 */; };
+		331DFD0F21C3E9C200E58C53 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 331DFD0E21C3E9C200E58C53 /* README.md */; };
 		332F7894207E3CC900365E32 /* element.c in Sources */ = {isa = PBXBuildFile; fileRef = 332F7845207E3CC900365E32 /* element.c */; };
 		332F7895207E3CC900365E32 /* list.c in Sources */ = {isa = PBXBuildFile; fileRef = 332F7847207E3CC900365E32 /* list.c */; };
 		332F7896207E3CC900365E32 /* notifierelement.c in Sources */ = {isa = PBXBuildFile; fileRef = 332F784A207E3CC900365E32 /* notifierelement.c */; };
@@ -112,6 +113,7 @@
 		331DFD0621C3D83300E58C53 /* nothing3.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = nothing3.mp4; sourceTree = "<group>"; };
 		331DFD0721C3D83300E58C53 /* nothing2.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = nothing2.mp4; sourceTree = "<group>"; };
 		331DFD0821C3D83400E58C53 /* nothing1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = nothing1.mp4; sourceTree = "<group>"; };
+		331DFD0E21C3E9C200E58C53 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../../README.md; sourceTree = "<group>"; };
 		332F7844207E3CC900365E32 /* vectoranimator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = vectoranimator.h; sourceTree = "<group>"; };
 		332F7845207E3CC900365E32 /* element.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = element.c; sourceTree = "<group>"; };
 		332F7846207E3CC900365E32 /* input.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = input.h; sourceTree = "<group>"; };
@@ -426,6 +428,7 @@
 		33DB6A9A1D5C827E00BB5633 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				331DFD0E21C3E9C200E58C53 /* README.md */,
 				33DB6A9D1D5C827E00BB5633 /* Assets.xcassets */,
 				33DB6A9F1D5C827E00BB5633 /* MainMenu.xib */,
 				33DB6AA21D5C827E00BB5633 /* Info.plist */,
@@ -503,6 +506,7 @@
 				331DFD0921C3D83600E58C53 /* nothing1.mp4 in Resources */,
 				33DB6A9E1D5C827E00BB5633 /* Assets.xcassets in Resources */,
 				3314830E1D8C109B0036A302 /* Avenir.ttc in Resources */,
+				331DFD0F21C3E9C200E58C53 /* README.md in Resources */,
 				331DFD0321C3CD0100E58C53 /* video5.mp4 in Resources */,
 				332F78B8207E3CC900365E32 /* plan.txt in Resources */,
 				331DFD0121C3CD0100E58C53 /* video3.mp4 in Resources */,
